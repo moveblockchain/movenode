@@ -6,7 +6,7 @@
 MOVE node is a host connected to the blockchain network with the following functions:
 
 
-- [REST API](https://api.moveblockhain.org)
+- [REST API](http://nodes.moveblockchain.org)
 
 
 Learn more about Nodes in the [documentation](https://moveblockchain.org).
