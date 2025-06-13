@@ -16,7 +16,7 @@ Learn more about Nodes in the [documentation](https://moveblockchain.org).
 A quick introduction of the minimal setup you need to get a running node. 
 
 *Prerequisites:*
-- configuration file `move*.conf` for a needed network from [here](releases](https://github.com/moveblockchain/movenode/releases)
+- configuration file `move.conf` for a needed network from [here](releases](https://github.com/moveblockchain/movenode/releases)
 - `move-all*.jar` file from [releases](https://github.com/moveblockchain/movenode/releases) 
 
 Linux systems:
